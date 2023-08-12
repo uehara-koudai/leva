@@ -10,7 +10,7 @@
  
     </head>
     <body class="antialiased">
-        <h1>ブログ</h1>
+        <h1>ブログ1</h1>
         <div class='posts'>
             @foreach($posts as $post)
                 <div class='post'>
